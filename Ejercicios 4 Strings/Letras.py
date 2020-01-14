@@ -1,6 +1,6 @@
 print("Programa letras")
 
-cadena="River vuelve a las copas"
+cadena="Boca vuelve a las copas"
 texto=""
 
 for i in range(len(cadena)):
@@ -8,3 +8,5 @@ for i in range(len(cadena)):
 		texto+=cadena[i]
 
 print(texto)
+
+#el programa esta determinado a eliminar de la cadena la letra S para luego crear una cadena nueva y mostrarla en pantalla
