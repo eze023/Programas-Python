@@ -17,3 +17,6 @@ print()
 print(lista[:])
 print()
 print("El promedio es: ",lista[12:])
+
+#El programa calcula el promedio de la lista y lo integra al final de la lista
+#finalizado el programa muestra en pantalla la lista con el promedio y el promedio a parte
