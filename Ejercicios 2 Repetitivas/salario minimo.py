@@ -15,3 +15,7 @@ for i in range(cantidad):
 	valor_min=min(lista)
 
 print("La persona que menos gana es", lista2[(lista.index(min(lista)))],"su salario es de $", valor_min)
+
+#programa de bucle, pide ingresar la cantidad de personas que hay en existencia
+#una vez ingresada la cantidad procede a pedir nombres y salarios
+#al finalizar el programa determinara el salario mas bajo e imprimira en pantalla su nombre con el salario
