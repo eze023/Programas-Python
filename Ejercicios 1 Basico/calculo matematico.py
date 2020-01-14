@@ -26,3 +26,4 @@ else:
     print("El simbolo ingresado no corresponde a ninguna operacion valida")
 
 #Programa de calculos matematicos
+#Es un programa basico que realiza suma o resta, en caso de pedir otra operacion este informara que no corresponde a una operacion valida
