@@ -1,4 +1,3 @@
-print("Ejercicio 13")
 
 def nombreinvertido():
 	nom=""
@@ -14,3 +13,5 @@ def nombreinvertido():
 	return nuevo
 
 print(nombreinvertido())
+
+#el programa determina el a partir del ingreso del nombre y apellido, transfiere el apellido al inicio y separa por una coma
