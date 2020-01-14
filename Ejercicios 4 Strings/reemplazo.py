@@ -10,3 +10,6 @@ for i in range(len(cadena)):
 
 print("Resultado")
 print(nuevo)
+
+#el programa realiza un reemplazo de cadenas dentro de una frase determinada en una variable
+#busca la palabra a reemplazar y cambia por otra ingresada
