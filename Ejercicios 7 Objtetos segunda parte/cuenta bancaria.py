@@ -42,3 +42,6 @@ tipo3.ingresar(0)
 tipo3.intereses()
 tipo3.retiro(20000)
 tipo3.salida()
+
+#este programa realiza la funcion de un cajero de banco, en caso de retirar dinero informara el estado de la cuenta y el saldo
+#si la cuenta estuviera sin dinero el programa avisara que no tiene mas dinero y no se puede retirar mas
