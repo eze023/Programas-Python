@@ -9,3 +9,5 @@ elif sexo==f:
 	print(nombre, "Es Mujer") 
 else:
 	print("Su sexo no esta definido")
+
+#programa base verifica el sexo del usuario siempre y cuando cumpla con las operaciones logicas
