@@ -1,4 +1,3 @@
-print("Ejercicio 3")
 
 def contarletras(cade):
 	nueva=""
@@ -15,3 +14,5 @@ def contarletras(cade):
 cadena="Quiero comer manzanas, solamente manzanas."
 print(cadena)
 print("La cantidad de letras es: ",contarletras(cadena))
+
+#el programa utiliza una funcion que determina la cantidad de letras en la cadena ingresada eliminando las comas, puntos y espacios
