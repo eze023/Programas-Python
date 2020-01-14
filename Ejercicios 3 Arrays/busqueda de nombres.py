@@ -19,3 +19,7 @@ lugar=lista.index(nom) #lugar en la lista
 print("El lugar de la lista es: ",format(lugar)) #da formato al lugar donde esta el nombre
 print()
 print("Fin del programa")
+
+#El programa pregunta si desea ingresar un nombre una vez finalizada la carga de la lista
+#el programa preguntara que nombre desea saber que lugar de la lista se encuentra
+#finalizado mostrara en pantalla el lugar que ocupa en la lista
