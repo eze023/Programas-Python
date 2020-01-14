@@ -53,3 +53,5 @@ class Seleccion():
 		tipo.seleccionDelantero()
 
 sele=Seleccion()
+
+#el programa realiza una composicion de clases para mostrar en pantalla lo pedido, promedio de gol, penales atajados y kilometros recorridos
