@@ -52,3 +52,5 @@ for i in range(len(lista_sexo)):
 print("Lista de las personas es:",lista_nombres)
 print("El nombre mas largo es: ",nueva)
 print("El promedio de edad de las mujeres es: ",promedio)
+
+#programa primer integrador se pide 7 datos de 7 personas, la salida es mostrar la lista de las personas y muestra el promedio de las edades
