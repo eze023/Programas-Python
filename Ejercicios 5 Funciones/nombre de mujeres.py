@@ -22,3 +22,6 @@ def nombresmujeres(lista1, lista2):
 nombres, sexos=cargadatos()
 print()
 print("Los nombres de las mujeres son: ", nombresmujeres(nombres, sexos))
+
+#el programa a pesar de que este mismo se realizo en otra hoja de programacion
+#utiliza funciones para implementar el uso de listas y determinar en una lista las mujeres que fueron ingresadas
