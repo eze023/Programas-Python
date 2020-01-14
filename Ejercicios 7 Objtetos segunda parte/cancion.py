@@ -20,3 +20,5 @@ tema.ponerTitulo("Seven pillars of wisdom")
 tema.ponerAutor("Sabaton")
 tema.dameTitulo()
 tema.dameAutor()
+
+#este programa cumple la funcion de composicion muestra en pantalla el titulo de la cancion ingresada y el autor
