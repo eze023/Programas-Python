@@ -8,3 +8,4 @@ elif 18<=num1<100:
 else:
     print("Su edad no es real")
 
+#programa que permite ingresar si este es mayor de edad
