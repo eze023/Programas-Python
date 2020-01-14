@@ -15,3 +15,6 @@ for i in range(cantidad):
 print()
 print("Hay ", contador, "Mujeres")
 print(lista)
+
+#Este programa cuenta la cantidad de mujeres ingresadas al sistema y guarda sus nombres dentro de una lista
+#por salida muestra la lista y la cantidad
