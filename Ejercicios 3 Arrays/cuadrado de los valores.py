@@ -20,3 +20,5 @@ print()
 print(lista2[:])
 print()
 print("Fin del programa")
+
+#el programa pide ingresar cierta cantidad de numeros al finalizar el trabajo este tomara valor por valor sacara el cuadrado del mismo y lo guardara en otra lista
