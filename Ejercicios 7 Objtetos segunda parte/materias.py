@@ -90,3 +90,6 @@ class Aplicacion():
 chabon1=Aplicacion()
 chabon2=Aplicacion()
 chabon3=Aplicacion()
+
+#el programa tiene 3 clases, en la clase alumno se toma los datos del alumno y llama a la clase asignatura para tomar los datos de las materias cursadas, luego realizara un promedio de las notas y a traves de la funcion promedio mostraremos en pantalla la salida
+#la clase aplicacion es la que unifica todo el programa en si
