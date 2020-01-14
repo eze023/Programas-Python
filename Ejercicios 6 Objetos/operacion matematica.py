@@ -27,3 +27,5 @@ print()
 opera=Promedio()
 opera.promedio()
 opera.salida()
+
+#Creamos una clase llamada operacion donde en su funcionamiento nos dedicamos a tomar los datos inicializados luego realizar la funcion al cual se necesita, por un lado llamamos una suma por otro lado el promedio
