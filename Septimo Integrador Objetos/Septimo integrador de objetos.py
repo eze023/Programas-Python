@@ -86,3 +86,5 @@ for i in range(3):
 	tipo=Company()
 	tipo.agEmp()
 	tipo.showAll()
+
+#El programa realiza una composicion entre clases para mostrar en pantalla si la persona es programador y dependiendo del lenguaje que maneja el programador elige la empresa con la cual trabajar
