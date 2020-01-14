@@ -4,10 +4,12 @@ cadena="Juan tiene 25 años"
 var=""
 
 for i in range(len(cadena)):
-	if cadena[i]=="0" or cadena[i]=="1" or cadena[i]=="2" or cadena[i]=="3" or cadena[i]=="4" or cadena[i]=="5" or cadena[i]=="6" or cadena[i]=="7" or cadena[i]=="8" or cadena[i]=="9":
+	if cadena[i] in "1234567890":
 		var+=cadena[i]
 
 var=int(var)
 var=var*2
 
-print(var)
+print("El valor es: ",var)
+
+#El programa determina y nos muestra como eliminar un texto de una cadena tomar el valor y multiplicarlo para mostrar su salida en pantalla
