@@ -8,3 +8,5 @@ while contador<35:
 
 print()
 print("Fin del programa")
+
+#programa muestra en pantalla los numeros multiplos de 5
