@@ -4,7 +4,7 @@ class Auto():
         self.anio=anio
 
     def antiguedad(self):
-        self.total=2019-self.anio
+        self.total=2020-self.anio
 
     def salida(self):
         if self.total<5:
@@ -24,3 +24,5 @@ a2.salida()
 a3=Auto("Ford",2015)
 a3.antiguedad()
 a3.salida()
+
+#creamos una clase llamada Auto inicializada, toma como datos la marca y el año de fabricacion, mostrara en pantallas aquellos cuya antiguedad sea mayor a 5 años
