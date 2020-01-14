@@ -108,3 +108,5 @@ print("Locales que no son mediocampistas")
 for i in range(len(procYpos)):
 	if procYpos[i]=="l-arq" or procYpos[i]=="l-del":
 		print(nueva[i])
+
+#el programa a partir de una lista de cadenas, realizara la funcion de mostrar en pantalla los titulares de la seleccion argentina, ademas mostrara los jugadores locales que no son mediocampistas
