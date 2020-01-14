@@ -25,3 +25,7 @@ print()
 print("Las personas mayores de edad son: ",indice)
 print()
 print("Fin del programa")
+
+#programa realiza el ingreso de datos si hay en existencia
+#si hay personas mayores de edad los agregara a una lista
+#finalizado el programa mostrara en pantalla los mayores de edad
