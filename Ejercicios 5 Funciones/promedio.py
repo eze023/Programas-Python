@@ -1,5 +1,3 @@
-print("Ejercicio 9")
-
 def promedio(lista):
 	acumulador=0
 	num=0
@@ -29,3 +27,5 @@ prome=promedio(numeros)
 
 print("El promedio es: ", prome)
 print("Los numeros mayores al promedio es: ", mayorque(numeros, prome))
+
+#el programa realiza la funcion de sacar el promedio de una lista de numeros, el promedio se inserta en la lista y esta sera mostrada por pantalla con los numeros mayores al promedio
