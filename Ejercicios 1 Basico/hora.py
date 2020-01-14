@@ -16,3 +16,5 @@ if num1>24:
 
 print()
 print("Hora: ",num1,"minutos: ",num2,"segundos: ",num3)
+
+#calcula la hora segun la cantidad de horas minutos segundos ingresados
