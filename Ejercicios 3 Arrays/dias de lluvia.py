@@ -15,3 +15,5 @@ print()
 print("La mayor precipitacion de la semana fue el dia",dias[lluvia.index(max(lluvia))],"y la cantidad maxima de la semana fue: ",suma,".mm")
 print()
 print("Fin del programa")
+
+#El programa calcula el dia que mas llovio y la suma total en mm de la cantidad de lluvia semanal
