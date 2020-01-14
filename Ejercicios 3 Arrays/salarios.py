@@ -24,3 +24,5 @@ print()
 print("Los empleados con salario superior a 15000 son: ",lista3[:])
 print()
 print("Fin del programa")
+
+#El programa determinara los usuarios que tienen un ingreso superior a 15000 y este sera agregado a una nueva lista, en caso contrario la lista permanecera vacia
