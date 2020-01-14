@@ -29,3 +29,6 @@ c=Persona("Ludmila", 7, "f")
 print(a.salida())
 print(b.salida())
 print(c.salida())
+
+#creamos una clase llamada persona en su interior inicializamos la funcion al cual se le asignara nombre, edad y sexo, al momento de mostrar en pantalla va a comparar las edades y los sexos
+#mostrara en pantalla la cantidad de veces que sea inicializado
