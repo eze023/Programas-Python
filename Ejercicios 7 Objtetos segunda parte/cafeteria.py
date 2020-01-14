@@ -40,3 +40,6 @@ tipo3=Cafetera(1000,0)
 tipo3.llenarCafetera(200)
 tipo3.servirCafe(250)
 tipo3.salida()
+
+#este programa realiza la funcion de una cafetera, al momento de estar vacia avisara que no quedo cafe dentro de la misma, en caso de que estuviera llena avisara que no se puede cargar mas
+#en caso de estar media vacia procedera a llenar cierta cantidad de liquido
