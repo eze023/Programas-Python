@@ -20,3 +20,5 @@ print()
 print("Las mujeres son: ",indice)
 print()
 print("Fin del programa")
+
+#El programa crea una lista donde muestra como salida la cantidad de mujeres que se han ingresado caso contrario la lista quedara vacia
