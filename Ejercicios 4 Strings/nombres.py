@@ -31,3 +31,5 @@ if edad2>edad:
 	print(fin+" "+cadena+" "+total+" "+cadena2+" "+inicio)
 
 print("Fin del programa")
+
+#el programa determina que persona es mayor que la otra y muestra en pantalla a partir de una cadena los años de diferencia
