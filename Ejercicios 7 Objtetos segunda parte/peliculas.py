@@ -143,3 +143,6 @@ class Aplicacion():
 		tipo.alquilar()
 
 tipo1=Aplicacion()
+
+#Este programa cumple la funcion de un local de alquiler de videos, muestra en pantalla el stock de peliculas y pide agregar los datos de los clientes
+#todo el programa se ejecuta a traves de la clase Aplicacion por lo que se realiza una composicion
