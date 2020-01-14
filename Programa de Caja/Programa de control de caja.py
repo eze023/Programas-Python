@@ -1423,6 +1423,6 @@ class MyFrame(Frame):
 app = MyApp()
 app.MainLoop()
 
-#Es un programa de caja que realiza el alta baija modificacion tanto de clientes como productos, ademas tiene en cuenta los datos del usuario y este determina el tipo de factura a cobrar
+#Es un programa de caja que realiza el alta baja modificacion tanto de clientes como productos, ademas tiene en cuenta los datos del usuario y este determina el tipo de factura a cobrar
 #utiliza reglas de negocios y los tipos de facturacion dependiendo de la categoria del afip
 #utilice SQLite para guardar los datos, dentro de la base de datos
