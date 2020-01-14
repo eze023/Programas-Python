@@ -7,3 +7,4 @@ elif 18<=num1<100:
     print("Su nombre es: ", nombre, "Su edad es: ", str(num1), "Puede pasar")
 else:
     print("Su edad no es real")
+
