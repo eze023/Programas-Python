@@ -32,3 +32,6 @@ if (varu>=vara) and (varu>=vare) and (varu>=vari) and (varu>=varo):
 	print("La letra que mas se repite es: u ",varu)
 
 print("Fin del programa")
+
+#el programa realiza el recuento de vocales en una cadena de palabras determinada, una vez realizado el recuento se comparara con las otras letras
+#luego procedera a mostrar en pantalla la letra que mas se repite y la cantidad de veces que se repite
