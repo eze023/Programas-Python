@@ -36,3 +36,5 @@ elif color in ("gris","plateado"):
 	a4.salida()
 else:
 	print("No existen autos con ese color")
+
+#creamos dos clases una que determina los datos del auto, y otra que asigna al dueño los datos del auto
