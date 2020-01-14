@@ -23,3 +23,4 @@ if operation==s:
 elif operation==r:
     substraction(n1,n2)
 else:
+    print("El simbolo ingresado no corresponde a ninguna operacion valida")
