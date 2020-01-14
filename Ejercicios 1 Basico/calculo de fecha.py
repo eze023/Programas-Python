@@ -17,3 +17,4 @@ while Hours>=24:
 	Hours=Hours-24
 	Days=Days+1
 
+print("Dias: ",str(Days),"Horas: ",str(Hours),"Minutos: ",str(Minutes),"Segundos: ",str(num1))
