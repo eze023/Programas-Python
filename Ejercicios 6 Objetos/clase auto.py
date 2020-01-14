@@ -14,3 +14,6 @@ a2.salida()
 
 a3=Auto("Ford",2015)
 a3.salida()
+
+#cree una clase llamada Auto dentro de la misma toma como dato la marca y el año de fabricacion
+#muestra en pantalla a traves de la funcion salida los datos de los autos concatenados con la cadena
