@@ -18,3 +18,5 @@ promedio=p(lista)
 
 print()
 print("El promedio es: ", promedio)
+
+#Importamos las funciones para poder dar solucion a la problematica del programa

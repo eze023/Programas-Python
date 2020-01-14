@@ -16,3 +16,5 @@ from Funciones.mujeressolo import nombresmujeres as n
 lista=n(nombres, sexo)
 
 print("Los nombres de las mujeres son: ", lista)
+
+#importamos las funciones a utilizar asignadas con una letra como variable

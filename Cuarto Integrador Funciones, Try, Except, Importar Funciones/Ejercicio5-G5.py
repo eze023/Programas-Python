@@ -15,3 +15,5 @@ from Funciones.canvocal import cuenta as c
 cantidad=c(lista)
 
 print("La cantidad de volcales es: ", cantidad)
+
+#Realizamos un importe de funciones para poder resolver el programa

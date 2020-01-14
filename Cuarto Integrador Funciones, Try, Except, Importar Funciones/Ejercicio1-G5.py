@@ -14,3 +14,5 @@ from Funciones.suma import suma as s
 total=s(num1,num2)
 
 print("El total es: ",total)
+
+#el programa utiliza las funciones importadas desde la carpeta Funciones y asignamos variables a los formatos de utilizacion

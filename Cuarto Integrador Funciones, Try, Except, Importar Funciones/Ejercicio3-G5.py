@@ -24,3 +24,5 @@ print()
 print("El promedio es: ", promedio)
 print()
 print("Los mayores al promedio son: ", mayores)
+
+#realizamos un programa cuya funcion es importada desde la carpeta Funciones y realiza la finalidad de cada funcion ingresada
