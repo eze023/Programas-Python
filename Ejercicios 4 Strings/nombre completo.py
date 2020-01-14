@@ -11,3 +11,5 @@ for i in range(len(nombre)):
 
 
 print(cadena+","+cadena2)
+
+#El programa realiza una funcionalidad de cambiar de lugar el apellido por el nombre y separa ambos por una coma
