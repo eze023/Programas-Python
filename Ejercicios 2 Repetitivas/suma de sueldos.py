@@ -10,3 +10,5 @@ while haydatos=="si":
 print("Sueldo total: ",total)
 print()
 print("Fin del programa")
+
+#programa suma el valor total de los sueldos ingresados siempre y cuando el usuario ingrese que si hay datos
