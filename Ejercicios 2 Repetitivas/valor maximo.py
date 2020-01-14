@@ -13,3 +13,5 @@ while (carga!="no"):
 print()
 print("Valor maximo: ", str(valor_max))
 print("Fin del programa")
+
+#Programa pide numeros hasta que el usuario ingrese "no", luego calcula el valor maximo de todos los numeros ingresados
