@@ -31,3 +31,6 @@ print()
 nombres=cargadedatos()
 print()
 print("El lugar de la lista del nombre buscado es: ", buscar(nombres))
+
+#el programa pide el ingreso de un nombre para ir agregando a la lista, una vez finalizada la carga de nombres pregunta si desea buscar alguno de los ingresados para determinar el lugar en la lista
+#como salida muestra el lugar de la lista de la persona buscada en cuestion
