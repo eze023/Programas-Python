@@ -27,3 +27,6 @@ cel1.salida()
 
 cel2=Telefono("Iphone","X","iOS","10",3000,16)
 cel2.salida()
+
+#creamos una clase Telefono inicializada con los datos del telefono, al momento de pedir los datos utilizamos el objeto asignando los datos requeridos por la funcion init
+#la funcion costo determina el valor anual, la funcion memoria determina si el telefono es alta gama o baja gama
