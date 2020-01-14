@@ -1,4 +1,3 @@
-print("Ejercicio 4")
 
 def cantidadpalabras(cade):
 	var=cade.split()
@@ -8,3 +7,5 @@ def cantidadpalabras(cade):
 cadena="Quiero comer manzanas, solamente manzanas."
 
 print("La cantidad de palabras es: ",cantidadpalabras(cadena))
+
+#el programa utiliza una funcion para determinar la cantidad de palabras en la cadena
