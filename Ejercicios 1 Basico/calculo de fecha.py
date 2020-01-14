@@ -19,3 +19,4 @@ while Hours>=24:
 
 print("Dias: ",str(Days),"Horas: ",str(Hours),"Minutos: ",str(Minutes),"Segundos: ",str(num1))
 
+#calcula la cantidad de dias, horas, minutos y segundos con el ingreso de segundos al programa
