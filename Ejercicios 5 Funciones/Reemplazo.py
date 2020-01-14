@@ -1,5 +1,3 @@
-print("Ejercicio 2")
-
 def reemplazo (pala, pala2, cade):
 	nuevo=""
 	for i in range(len(cade)):
@@ -15,3 +13,5 @@ palabra1="peras"
 
 print()
 print(reemplazo(palabra, palabra1, cadena))
+
+#el programa realiza una funcion de reemplazar las palabras manzanas por las palabras peras
