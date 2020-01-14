@@ -11,3 +11,5 @@ while (precio>0):
 
 
 print("Hay ", cantidad,"Autos entre los precios de $460.000 y $1.250.000")
+
+#el programa cuenta la cantidad de autos que hay en existencia si el valor del mismo se encuentra entre 460000 y 1250000
