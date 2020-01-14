@@ -19,3 +19,5 @@ def cuenta(listaletras):
 vocales=lista()
 print(vocales)
 print("La cantidad de vocales es: ",cuenta(vocales))
+
+#el programa realiza la funcion de agregar a una lista la cantidad de letras ingresadas, luego cuenta la cantidad de vocales en la lista y las muestra en pantalla
