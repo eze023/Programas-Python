@@ -17,3 +17,5 @@ num=Listas()
 num.tomadedatos()
 num.operacion()
 num.salida()
+
+#programa creamos una clase llamada lista donde esta clase se encarga de cargar nombres a una lista y mostrarlas por pantalla como salida
