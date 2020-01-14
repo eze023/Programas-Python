@@ -25,3 +25,5 @@ def palabralarga(lista):
 listapalabras=cargadedatos()
 print()
 print("La palabra mas larga es: ",palabralarga(listapalabras), "letras")
+
+#el programa realiza la funcion de mostrar por pantalla la palabra mas larga ingresada y la cantidad de letras que tiene
