@@ -19,3 +19,5 @@ lugar=lista.index(suma)
 print("Promedio: ",suma,"numeros mayores: ",lista[lugar+1:])
 
 print("Fin del programa")
+
+#de una lista generada aleatoriamente el programa sacara el promedio y mostrara en pantalla los numeros superiores al promedio
