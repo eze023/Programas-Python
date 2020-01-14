@@ -104,3 +104,5 @@ class Aplicacion():
 
 
 tipo=Aplicacion()
+
+#en este programa usamos distintas clases, la clase principal es Aplicacion la cual realiza una composicion entre la clase Animal y la Clase jaula, la clase Puma y Venado realizan una herencia de la clase Animal para la utilizacion de las funciones de la clase Animal
