@@ -72,3 +72,5 @@ a2.p2.abrirPuerta()
 a2.p1.abrirPuerta()
 a2.p1.cerrarPuerta()
 a2.p2.cerrarPuerta()
+
+#en este programa realizamos distintas clases que componen las partes de un auto, cada clase realiza una funcion en particular. Al unificar todas las clases se ejecutaran a traves de su ejecucion particular
