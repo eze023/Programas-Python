@@ -19,3 +19,5 @@ else:
 
 print()
 print("Fin del programa")
+
+#El programa busca una palabra a partir del ingreso del usuario en una cadena ya determinada
