@@ -10,3 +10,5 @@ for i in range(20):
 	
 print()
 print("Fin del programa")
+
+#programa pide un numero al ingresarlo muestra los siguiente 20 numeros al ingresado
