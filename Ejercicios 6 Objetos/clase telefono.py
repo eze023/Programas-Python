@@ -14,3 +14,5 @@ class Telefono():
 
 telefono1=Telefono("Samsung","J8",900)
 telefono1.salida()
+
+#creamos una clase llamada telefono, con una funcion ya inicializada para luego tomar los datos del telefono en si y mostrar una cadena en pantalla con los datos ingresados
