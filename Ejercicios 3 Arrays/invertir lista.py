@@ -16,3 +16,5 @@ lista.reverse()
 print(lista)
 print()
 print("Fin del programa")
+
+#el programa pide ingresar por pantalla numeros aleatorios, al finalizar muestra en pantalla los numeros en orden invertido
