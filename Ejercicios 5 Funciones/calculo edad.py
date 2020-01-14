@@ -27,3 +27,5 @@ def calculoedad(lista, edades):
 listas, edad=cargadatos()
 print()
 print("Los mayores de edad son: ",calculoedad(listas, edad))
+
+#el programa realiza la funcion de mostrar en pantalla las personas cuyo edad es mayor a 18 años
