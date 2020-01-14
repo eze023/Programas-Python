@@ -15,3 +15,5 @@ for i in lista[:]:
 print("La cantidad de letras vocales son: ", contador)
 print()
 print("Fin del programa")
+
+#el programa cuenta la cantidad de vocales ingresadas en la lista
