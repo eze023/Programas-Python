@@ -11,3 +11,5 @@ def promedio(n1, n2, n3):
 	print("Su promedio es: " + str(n4))
 
 promedio(num1, num2, num3)
+
+#programa que calcula el promedio de las notas
