@@ -15,3 +15,5 @@ while datos=="si":
 
 for i in lista:
     print(i.nombre, i.edad)
+
+#el programa creamos una clase llamada persona donde ingresamos los datos de las personas y luego mostramos por pantalla los nombres con las edades cargadas
