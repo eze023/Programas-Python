@@ -58,3 +58,5 @@ for i in range(len(nombres)):
 		if nombr[i]==letra and nombr[i+5]!="r":
 			inicio=nombr[i:]
 			print(inicio+" "+agno+" "+tip)
+
+#el programa realiza la funcion de mostrar en pantalla las peliculas de ciencia ficcion y la cantidad de peliculas cuyo estreno fue anterior al año 2000, ademas pide al usuario ingresar una lista para verificar si la pelicula esta en la lista
