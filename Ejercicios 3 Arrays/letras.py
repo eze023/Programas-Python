@@ -19,3 +19,5 @@ contador=lista.count(buscar)		#busca dentro de una lista cierto elemento
 print("La cantidad de veces que se repite la letra es: ",contador)
 print()
 print("Fin del programa")
+
+#el programa realiza el recuento de la cantidad de letras que se repiten en una lista
