@@ -17,3 +17,5 @@ else:
 
 print()
 print("Fin del programa")
+
+#programa ordena los numeros de menor a mayor, en caso de ser iguales imprime ambos numeros
