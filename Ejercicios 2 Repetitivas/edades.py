@@ -10,3 +10,5 @@ for i in range(personas):
 promedio=promedio/personas
 print()
 print("La edad promedio es: ", promedio)
+
+#El programa pide ingresar cierta cantidad de personas al sistema, luego pide la edad y al final saca un promedio de las edades
